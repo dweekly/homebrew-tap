@@ -1,8 +1,8 @@
 class TailscaleSwift < Formula
   desc "Swift CLI for inspecting a local Tailscale daemon (unofficial)"
   homepage "https://github.com/dweekly/swift-tailscale-client"
-  url "https://github.com/dweekly/swift-tailscale-client/archive/refs/tags/v0.10.0.tar.gz"
-  sha256 "268d45339d356b66e7d080d3e81534e4e2ffdecfec89fee0e14e96fc989e5e3f"
+  url "https://github.com/dweekly/swift-tailscale-client/archive/refs/tags/v0.12.0.tar.gz"
+  sha256 "12eeef7871abebb127936645b9669c05238b4236ae6bf4c5f36305f8880c62e4"
   license "MIT"
   head "https://github.com/dweekly/swift-tailscale-client.git", branch: "main"
 
